@@ -1,0 +1,17 @@
+# Ignore large data files
+*.csv
+*.pkl
+
+# Ignore notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environment
+venv/
+.env/
+
